@@ -5,6 +5,10 @@
 ## Dataset
 This project uses the **Movies Dataset** from Kaggle: [The Movies Dataset](https://www.kaggle.com/datasets/rounakbanik/the-movies-dataset).
 
+## Direct Dataset Download Link
+
+Here is the direct dataset download link: [Download the dataset from OneDrive](https://binghamton-my.sharepoint.com/:x:/g/personal/smane_binghamton_edu/EaNa1OLCjhFEiRYv2h5q9PwBIyG4aL7c1yoUf39ulP0Qjg?e=6BcfhP).
+
 ### **Loading the Dataset**
 - Download the dataset from the above link.
 - Extract the dataset and place `movies_metadata.csv` inside an `archive/` folder in the project directory.
@@ -13,7 +17,7 @@ This project uses the **Movies Dataset** from Kaggle: [The Movies Dataset](https
 ### **Requirements**
 Ensure you have **Python 3.8+** installed.
 
-### **Create a Virtual Environment (Recommended)**
+### **Create a Virtual Environment**
 ```bash
 python -m venv env  # Create virtual environment
 source env/bin/activate  # Activate on macOS/Linux
