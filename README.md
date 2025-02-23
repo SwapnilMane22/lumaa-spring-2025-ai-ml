@@ -55,6 +55,14 @@ python recommend.py "A thrilling action movie with superhero"
 
 Alternatively, open and run the Jupyter Notebook if available.
 
+---
+
+## Demo Video
+
+Here is the demo video: [Watch the video on OneDrive](https://binghamton-my.sharepoint.com/:v:/g/personal/smane_binghamton_edu/EZ8we6mKHYtOtX4GVRGLfqMB6Lc_ZZoq9H_fYliSZTR33g?e=zGUiKV).
+
+---
+
 ## Results
 Example output for the query: `"A thrilling action movie with a strong female lead"`
 ```
@@ -95,6 +103,8 @@ Top 5 Recommended Movies using SBERT:
    Similarity Score: 53.41%
 ```
 The **TF-IDF** method is based on text frequency, while **SBERT** provides context-aware similarity.
+
+
 
 ## Notes
 - The system uses **TF-IDF vectorization** and **SBERT embeddings** for recommendations.
